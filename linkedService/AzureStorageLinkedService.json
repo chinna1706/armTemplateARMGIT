@@ -1,0 +1,10 @@
+{
+	"name": "AzureStorageLinkedService",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "mU+kNra2We5X4/zYUPI2uUU+EBp4Q9vMn7qubS0TC+P66hyLZKdngLX8DiFUMzGvgLx80dsAnNIyqH2b0UEIhg=="
+		}
+	}
+}
