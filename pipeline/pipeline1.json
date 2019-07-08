@@ -1,6 +1,7 @@
 {
 	"name": "pipeline1",
 	"properties": {
+		"description": "Pipeline to copy data from storage to storage",
 		"activities": [
 			{
 				"name": "Copy Data S1 to S2",
